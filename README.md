@@ -18,7 +18,7 @@ To analyze customer churn patterns based on customer tenure, contract type, inte
 
 ## Dashboard
 
-![Telco Customer Churn Dashboard](Screenshot 2026-09-29 140527.png)
+Screenshot 2026-09-29 140527.png
 
 ## Key Insights
 
@@ -36,10 +36,3 @@ To analyze customer churn patterns based on customer tenure, contract type, inte
 - Investigate payment-related customer experience.
 - Examine service-related issues among fiber-optic customers.
 - Evaluate the relationship between technical support availability and customer retention.
-
-## Project Files
-
-- `Excel/` – Excel analysis and EDA
-- `PowerBI/` – Power BI dashboard
-- `Documentation/` – Project documentation
-- `images/` – Dashboard screenshots
